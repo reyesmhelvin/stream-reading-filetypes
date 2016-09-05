@@ -1,0 +1,19 @@
+{
+  "name": "stream-reading-filetypes",
+  "version": "1.0.0",
+  "description": "reads the contents of a directory and output the name, type of the files inside.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyesmhelvin/stream-reading-filetypes.git"
+  },
+  "author": "Mhelvin Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyesmhelvin/stream-reading-filetypes/issues"
+  },
+  "homepage": "https://github.com/reyesmhelvin/stream-reading-filetypes#readme"
+}
